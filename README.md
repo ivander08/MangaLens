@@ -1,2 +1,2 @@
-# MangaLens
+# ManhwaLens
  
