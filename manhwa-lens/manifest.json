@@ -1,0 +1,10 @@
+{
+  "name": "Manhwa Lens",
+  "description": "Every PC-Manhwa Reader's Best Friend",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "manhwalens.html",
+    "default_icon": "manhwalens_extensions.png"
+  }
+}
